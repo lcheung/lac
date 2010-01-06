@@ -1,0 +1,54 @@
+8
+
+dir
+403
+http://touchlib.googlecode.com/svn/trunk/tinyxml/lib
+http://touchlib.googlecode.com/svn
+
+
+
+2007-01-27T13:15:19.996594Z
+1
+dwallin33
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+354aca26-de27-0410-a198-a53a36578689
+
+tinyxml.lib
+file
+
+
+
+
+2010-01-06T19:28:13.000000Z
+99c2a8f536c619e383c6f6b1f0ed2445
+2007-01-27T13:15:19.996594Z
+1
+dwallin33
+has-props
+
+tinyxmld.lib
+file
+
+
+
+
+2010-01-06T19:28:13.000000Z
+f37aebb6fb535a98858f978694c65540
+2007-01-27T13:15:19.996594Z
+1
+dwallin33
+has-props
+

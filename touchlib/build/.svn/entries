@@ -1,0 +1,34 @@
+8
+
+dir
+403
+http://touchlib.googlecode.com/svn/trunk/build
+http://touchlib.googlecode.com/svn
+
+
+
+2008-09-23T11:13:43.331553Z
+400
+laurence.muller
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+354aca26-de27-0410-a198-a53a36578689
+
+VC8
+dir
+
+VC9
+dir
+

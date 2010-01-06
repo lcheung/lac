@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>	
+		<property id="debug" type="boolean">true</property>
+        <property id="version" type="string"><![CDATA[1.0.1]]></property>    
+		<property id="theme" type="string"><![CDATA[none]]></property>       
+       	<!--<property id="background" type="string"><![CDATA[http://nui.mine.nu/regal.jpg]]></property>  -->
+		 <property id="background" type="string"><![CDATA[http://nui.mine.nu/~fade.jpg]]></property>  
+	    <property id="host" type="string"><![CDATA[localhost]]></property> 
+ 	    <property id="TCP" type="number" >3000</property>
+		<property id="UDP" type="number" >3333</property>
+        <property id="framerate" type="number" >800</property>
+        <property id="modules" type="array" ><![CDATA[viewer]]></property>
+		<property id="modules_avail" type="array" ><![CDATA[paint, viewer, maps, web]]></property>
+</settings>

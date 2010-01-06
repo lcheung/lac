@@ -1,0 +1,130 @@
+﻿<flash_project name="flashapps" version="1">
+    <project_folder name="src" expanded="true">
+        <project_file path="./src/AppLoader.fla" filetype="fla" profile="" />
+        <project_file path="./src/ArtGen.fla" filetype="fla" profile="" />
+        <project_file path="./src/Base.fla" filetype="fla" profile="" />
+        <project_file path="./src/ExternalSWF.fla" filetype="fla" profile="" />
+        <project_file path="./src/MusicalSquares.fla" filetype="fla" profile="" />
+        <project_file path="./src/Paint.fla" filetype="fla" profile="" />
+        <project_file path="./src/Photo.fla" filetype="fla" profile="" />
+        <project_file path="./src/Piano.fla" filetype="fla" profile="" />
+        <project_file path="./src/Puzzle.fla" filetype="fla" profile="" />
+        <project_file path="./src/Ripples.fla" filetype="fla" profile="" />
+        <project_file path="./src/Tangram.fla" filetype="fla" profile="" />
+        <project_file path="./src/Tank.fla" filetype="fla" profile="" />
+        <project_file path="./src/Trace.fla" filetype="fla" profile="" />
+        <project_file path="./src/Turntables.fla" filetype="fla" profile="" />
+        <project_file path="./src/Viewer.fla" filetype="fla" profile="" />
+    </project_folder>
+    <project_folder name="com" expanded="true">
+        <project_folder name="touchlib" expanded="true">
+            <project_file path="./int/com/touchlib/TUIO.as" filetype="as" />
+            <project_file path="./int/com/touchlib/TUIO_clean.as" filetype="as" />
+            <project_file path="./int/com/touchlib/TUIOCursor.as" filetype="as" />
+            <project_file path="./int/com/touchlib/TUIOEvent.as" filetype="as" />
+            <project_file path="./int/com/touchlib/TUIOObject.as" filetype="as" />
+        </project_folder>
+    </project_folder>
+    <project_folder name="app" expanded="true">
+        <project_folder name="core" expanded="true">
+            <project_folder name="utl" expanded="false">
+                <project_file path="./int/app/core/utl/Background.as" filetype="as" />
+                <project_file path="./int/app/core/utl/FPS.as" filetype="as" />
+                <project_file path="./int/app/core/utl/MemoryMonitor.as" filetype="as" />
+                <project_file path="./int/app/core/utl/Settings.as" filetype="as" />
+            </project_folder>
+            <project_folder name="loader" expanded="false">
+                <project_file path="./int/app/core/loader/Flickr.as" filetype="as" />
+                <project_file path="./int/app/core/loader/GoogleCache.as" filetype="as" />
+                <project_file path="./int/app/core/loader/Local.as" filetype="as" />
+                <project_file path="./int/app/core/loader/nLoad.as" filetype="as" />
+            </project_folder>
+            <project_folder name="canvas" expanded="false">
+                <project_file path="./int/app/core/canvas/MediaCanvas.as" filetype="as" />
+                <project_file path="./int/app/core/canvas/n3DCanvas.as" filetype="as" />
+                <project_file path="./int/app/core/canvas/nCanvas.as" filetype="as" />
+                <project_file path="./int/app/core/canvas/PaintCanvas.as" filetype="as" />
+                <project_file path="./int/app/core/canvas/RippleCanvas.as" filetype="as" />
+                <project_file path="./int/app/core/canvas/TestCanvas.as" filetype="as" />
+                <project_file path="./int/app/core/canvas/TraceCanvas.as" filetype="as" />
+            </project_folder>
+            <project_folder name="element" expanded="false">
+                <project_file path="./int/app/core/element/HorizontalSlider.as" filetype="as" />
+                <project_file path="./int/app/core/element/Knob.as" filetype="as" />
+                <project_file path="./int/app/core/element/Slider.as" filetype="as" />
+                <project_file path="./int/app/core/element/Toggle.as" filetype="as" />
+                <project_file path="./int/app/core/element/TouchButton.as" filetype="as" />
+                <project_file path="./int/app/core/element/TouchlibKnob.as" filetype="as" />
+                <project_file path="./int/app/core/element/TouchlibWrapper.as" filetype="as" />
+                <project_file path="./int/app/core/element/Wrapper.as" filetype="as" />
+            </project_folder>
+            <project_folder name="action" expanded="false">
+                <project_file path="./int/app/core/action/3DRotate.as" filetype="as" />
+                <project_file path="./int/app/core/action/3DScale.as" filetype="as" />
+                <project_file path="./int/app/core/action/Rotatable.as" filetype="as" />
+                <project_file path="./int/app/core/action/RotatableScalable.as" filetype="as" />
+                <project_file path="./int/app/core/action/RotateScale.as" filetype="as" />
+                <project_file path="./int/app/core/action/Scrollable.as" filetype="as" />
+                <project_file path="./int/app/core/action/Multitouchable.as" filetype="as" />
+            </project_folder>
+        </project_folder>
+        <project_folder name="demo" expanded="true">
+            <project_folder name="app" expanded="true">
+                <project_folder name="tank" expanded="false">
+                    <project_file path="./int/app/demo/tank/PlayerTank.as" filetype="as" />
+                    <project_file path="./int/app/demo/tank/TankGame.as" filetype="as" />
+                    <project_file path="./int/app/demo/tank/TankProjectile.as" filetype="as" />
+                </project_folder>
+                <project_folder name="artgen" expanded="true">
+                    <project_file path="./int/app/demo/artgen/ArtGenCanvas.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/ArtGenMain.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/Boid.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/HoppingBugs.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/ISwarmMember.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/Layer.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/LazyFollower.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/Swarm.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/Boid2.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/Trail.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/IModulator.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/RandomModulator.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/SineModulator.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/SquareModulator.as" filetype="as" />
+                    <project_file path="./int/app/demo/artgen/SettingsDialog.as" filetype="as" />
+                </project_folder>
+                <project_folder name="puzzle" expanded="false">
+                    <project_file path="./int/app/demo/puzzle/PuzzleGame.as" filetype="as" />
+                    <project_file path="./int/app/demo/puzzle/PuzzleGameTile.as" filetype="as" />
+                </project_folder>
+                <project_folder name="tangram" expanded="true">
+                    <project_file path="./int/app/demo/tangram/PuzzleBar.as" filetype="as" />
+                    <project_file path="./int/app/demo/tangram/Tangram.as" filetype="as" />
+                </project_folder>
+                <project_folder name="piano" expanded="false">
+                    <project_file path="./int/app/demo/piano/CreatingKeyboard.as" filetype="as" />
+                    <project_file path="./int/app/demo/piano/Piano.as" filetype="as" />
+                </project_folder>
+                <project_folder name="musicalsquares" expanded="false">
+                    <project_file path="./int/app/demo/musicalSquares/Ball.as" filetype="as" />
+                    <project_file path="./int/app/demo/musicalSquares/BallOutline.as" filetype="as" />
+                    <project_file path="./int/app/demo/musicalSquares/Colliding.as" filetype="as" />
+                    <project_file path="./int/app/demo/musicalSquares/MusicalSquares.as" filetype="as" />
+                    <project_file path="./int/app/demo/musicalSquares/RotatableScalable.as" filetype="as" />
+                    <project_file path="./int/app/demo/musicalSquares/Sounds.as" filetype="as" />
+                    <project_file path="./int/app/demo/musicalSquares/Throwing.as" filetype="as" />
+                </project_folder>
+                <project_folder name="apploader" expanded="true">
+                    <project_file path="./int/app/demo/appLoader/AppLoader.as" filetype="as" />
+                    <project_file path="./int/app/demo/appLoader/AppLoaderButton.as" filetype="as" />
+                    <project_file path="./int/app/demo/appLoader/AppParticle.as" filetype="as" />
+                    <project_file path="./int/app/demo/appLoader/OSButton.as" filetype="as" />
+                </project_folder>
+                <project_file path="./int/app/demo/Arrange.as" filetype="as" />
+                <project_file path="./int/app/demo/Debug.as" filetype="as" />
+                <project_file path="./int/app/demo/Paint.as" filetype="as" />
+                <project_file path="./int/app/demo/Ripples.as" filetype="as" />
+                <project_file path="./int/app/demo/Trace.as" filetype="as" />
+            </project_folder>
+        </project_folder>
+    </project_folder>
+</flash_project>

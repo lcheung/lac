@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong
+END
+PongGame.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong/PongGame.as
+END
+Bouncer.as
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong/Bouncer.as
+END
+RectangularMovieClip.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong/RectangularMovieClip.as
+END
+Wall.as
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong/Wall.as
+END
+AIPaddle.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/306/trunk/AS3/int/app/demo/pong/AIPaddle.as
+END
+GameOver.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong/GameOver.as
+END
+Net.as
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong/Net.as
+END
+UserPaddle.as
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/340/trunk/AS3/int/app/demo/pong/UserPaddle.as
+END
+makeBall.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/306/trunk/AS3/int/app/demo/pong/makeBall.as
+END
+Paddle.as
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/306/trunk/AS3/int/app/demo/pong/Paddle.as
+END
+BallFade.as
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/306/trunk/AS3/int/app/demo/pong/BallFade.as
+END
+Ball.as
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong/Ball.as
+END
+Score.as
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/350/trunk/AS3/int/app/demo/pong/Score.as
+END

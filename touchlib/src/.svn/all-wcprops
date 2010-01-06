@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/398/trunk/src
+END
+DsCaptureFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/src/DsCaptureFilter.cpp
+END
+DSVLCaptureFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/398/trunk/src/DSVLCaptureFilter.cpp
+END
+TouchScreenDevice.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/49/trunk/src/TouchScreenDevice.cpp
+END
+ThresholdFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/368/trunk/src/ThresholdFilter.cpp
+END
+ResizeFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/52/trunk/src/ResizeFilter.cpp
+END
+CropFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/388/trunk/src/CropFilter.cpp
+END
+VideoWrapperFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/trunk/src/VideoWrapperFilter.cpp
+END
+InvertFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/49/trunk/src/InvertFilter.cpp
+END
+CMUCaptureFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/396/trunk/src/CMUCaptureFilter.cpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/49/trunk/src/test.cpp
+END
+BackgroundFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/331/trunk/src/BackgroundFilter.cpp
+END
+filter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/129/trunk/src/filter.cpp
+END
+SimpleHighpassFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/368/trunk/src/SimpleHighpassFilter.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/368/trunk/src/CMakeLists.txt
+END
+BrightnessContrastFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/129/trunk/src/BrightnessContrastFilter.cpp
+END
+CBlobTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/395/trunk/src/CBlobTracker.cpp
+END
+CvCaptureFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/src/CvCaptureFilter.cpp
+END
+IBlobTracker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/369/trunk/src/IBlobTracker.cpp
+END
+mousedriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/54/trunk/src/mousedriver.cpp
+END
+ShapeFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/329/trunk/src/ShapeFilter.cpp
+END
+configapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/330/trunk/src/configapp.cpp
+END
+CaptureFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/49/trunk/src/CaptureFilter.cpp
+END
+RectifyFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/194/trunk/src/RectifyFilter.cpp
+END
+HighpassFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/194/trunk/src/HighpassFilter.cpp
+END
+FilterFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/396/trunk/src/FilterFactory.cpp
+END
+SmoothingFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/src/SmoothingFilter.cpp
+END
+MonoFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/49/trunk/src/MonoFilter.cpp
+END
+ScalerFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/195/trunk/src/ScalerFilter.cpp
+END
+touchtest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/49/trunk/src/touchtest.cpp
+END
+sampleapp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/59/trunk/src/sampleapp.cpp
+END
+textures.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/49/trunk/src/textures.cpp
+END
+BarrelDistortionCorrectionFilter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/368/trunk/src/BarrelDistortionCorrectionFilter.cpp
+END
+CTouchScreen.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/397/trunk/src/CTouchScreen.cpp
+END
+filterbrightnesscontrast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/49/trunk/src/filterbrightnesscontrast.cpp
+END

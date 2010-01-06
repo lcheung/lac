@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" applicationComplete="init();">
+	<mx:Script>
+		<![CDATA[
+			import flash.events.TouchEvent;
+			import flash.events.TUIO;
+			
+			private function init():void
+			{
+				// initialize TUIO
+				TUIO.init(this,"localhost",3000,"",true); 
+				addEventListener(TouchEvent.MOUSE_DOWN, touchDetected);
+				addEventListener(MouseEvent.MOUSE_DOWN, clickDetected);
+			}
+			
+			private function touchDetected(event:TouchEvent):void
+			{
+				trace("TOUCH DETECTED");
+				trace(event.stageX+", "+event.stageY);
+			}
+			
+			private function clickDetected(event:MouseEvent):void
+			{
+				trace("CLICK DETECTED");
+			}
+		]]>
+	</mx:Script>
+</mx:Application>

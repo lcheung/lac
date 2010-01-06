@@ -1,0 +1,32 @@
+//TODO
+---------------------------------
+
+Pressure from OSC.exe
+Fix textObject embeded font issue in CS3 (works in Flex)
+M$ surface apploader 
+Fix rotate/scale shake (put angle threshold according to scale)
+
+Dynamic resolution (onResize change TUIO size)
+Add old X/Y to fix Trace.fla (needs previous x/y cords)
+Make project mindmap (Freemind)
+
+
+
+
+//DONE
+--------------------------------
+FPS and MemoryMonitor 
+3D Objects
+Viewer App
+Base App
+Disabled XML recording 
+AudioObject with spectrum
+SWF Loader (Flash Paper)
+3D wrapper container
+
+Lens Object
+
+
+Debug mode error (crashes when running as swf in debug mode)
+
+AppLoader Mouse Drag bug (when you try to drag middle icons with mouse)

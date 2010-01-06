@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<apploader>
+	<categories>
+		<category name="games">
+			<apps>
+				<app>
+					<name>Tank</name>
+					<body>2-4 players duke it out.</body>
+				</app>
+				<app>
+					<name>Tangram</name>
+					<body>puzzles</body>
+				</app>
+				<app>
+					<name>Phys1</name>
+					<body>Physics demo</body>
+				</app>				
+				<app>
+					<name>Pegs</name>
+					<body>Pegs</body>
+				</app>					
+			</apps>		
+		</category>
+		<category name="multimedia">
+			<apps>
+				<app>
+					<name>Paint</name>
+					<body>paint colorful images</body>
+				</app>
+				<app>
+					<name>Photo</name>
+					<body>Photo downloads random images from Flickr for you to explore.</body>
+				</app>
+				<app>
+					<name>MultiKey</name>
+					<body>Play music, multitouch style</body>
+				</app>
+				<app>
+					<name>MusicalSquares</name>
+					<body>Interactive Musical Windchime</body>
+				</app>
+			</apps>	
+		</category>
+		
+		<category name="visualization">	
+		<apps>
+				<app>
+					<name>Ripples</name>
+					<body>ripples for fun</body>
+				</app>	
+				<app>
+					<name>ArtGen</name>
+					<body>Generative Art application</body>
+				</app>
+				<app>
+					<name>Fire</name>
+					<body>Make flames</body>
+				</app>				
+			</apps>			
+		</category>
+	</categories>
+
+	
+</apploader>

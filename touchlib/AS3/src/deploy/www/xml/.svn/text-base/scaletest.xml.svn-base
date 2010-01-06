@@ -1,0 +1,2576 @@
+<OSCPackets>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53127"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.40423685"/>
+      <ARGUMENT TYPE="f" VALUE="0.40103334"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="25.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53128"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.40487698"/>
+      <ARGUMENT TYPE="f" VALUE="0.40266222"/>
+      <ARGUMENT TYPE="f" VALUE="5.210638E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0012597442"/>
+      <ARGUMENT TYPE="f" VALUE="0.0013632545"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.42457408"/>
+      <ARGUMENT TYPE="f" VALUE="0.3428837"/>
+      <ARGUMENT TYPE="f" VALUE="5.6675076E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.001372695"/>
+      <ARGUMENT TYPE="f" VALUE="0.0014850919"/>
+      <ARGUMENT TYPE="f" VALUE="16.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53129"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.40339705"/>
+      <ARGUMENT TYPE="f" VALUE="0.40600246"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0011436045"/>
+      <ARGUMENT TYPE="f" VALUE="0.002717793"/>
+      <ARGUMENT TYPE="f" VALUE="0.002948598"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.42622954"/>
+      <ARGUMENT TYPE="f" VALUE="0.34022647"/>
+      <ARGUMENT TYPE="f" VALUE="0.0014027655"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0017033219"/>
+      <ARGUMENT TYPE="f" VALUE="0.002206594"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53130"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.40114802"/>
+      <ARGUMENT TYPE="f" VALUE="0.41168988"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0012764037"/>
+      <ARGUMENT TYPE="f" VALUE="0.0024690032"/>
+      <ARGUMENT TYPE="f" VALUE="0.0027794214"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.43072656"/>
+      <ARGUMENT TYPE="f" VALUE="0.3341567"/>
+      <ARGUMENT TYPE="f" VALUE="0.0026572645"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0027281046"/>
+      <ARGUMENT TYPE="f" VALUE="0.0038083605"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53131"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.4004115"/>
+      <ARGUMENT TYPE="f" VALUE="0.41395748"/>
+      <ARGUMENT TYPE="f" VALUE="-7.36475E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.002267599"/>
+      <ARGUMENT TYPE="f" VALUE="0.0023841981"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.43218008"/>
+      <ARGUMENT TYPE="f" VALUE="0.3324771"/>
+      <ARGUMENT TYPE="f" VALUE="0.0014534891"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0016795397"/>
+      <ARGUMENT TYPE="f" VALUE="0.0022211447"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="10.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53132"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.39960748"/>
+      <ARGUMENT TYPE="f" VALUE="0.41578233"/>
+      <ARGUMENT TYPE="f" VALUE="-8.0400705E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0018248558"/>
+      <ARGUMENT TYPE="f" VALUE="0.0019941228"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.43277717"/>
+      <ARGUMENT TYPE="f" VALUE="0.33133078"/>
+      <ARGUMENT TYPE="f" VALUE="5.970597E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0011463761"/>
+      <ARGUMENT TYPE="f" VALUE="0.0012925395"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="13.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10161"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="13.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10161"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53133"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.3989513"/>
+      <ARGUMENT TYPE="f" VALUE="0.41746563"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4335643"/>
+      <ARGUMENT TYPE="f" VALUE="0.3294515"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="17.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10161"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="20.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10162"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="11.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10161"/>
+      <ARGUMENT TYPE="i" VALUE="10162"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53134"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.3981477"/>
+      <ARGUMENT TYPE="f" VALUE="0.41834265"/>
+      <ARGUMENT TYPE="f" VALUE="-8.0356E-4"/>
+      <ARGUMENT TYPE="f" VALUE="8.7702274E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0011894862"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.43407354"/>
+      <ARGUMENT TYPE="f" VALUE="0.3288858"/>
+      <ARGUMENT TYPE="f" VALUE="5.092621E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-5.657673E-4"/>
+      <ARGUMENT TYPE="f" VALUE="7.6120987E-4"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="13.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10161"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="20.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10162"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="17.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10161"/>
+      <ARGUMENT TYPE="i" VALUE="10162"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53135"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.39615083"/>
+      <ARGUMENT TYPE="f" VALUE="0.42074263"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0011109114"/>
+      <ARGUMENT TYPE="f" VALUE="0.0017557144"/>
+      <ARGUMENT TYPE="f" VALUE="0.0020776568"/>
+      <ARGUMENT TYPE="f" VALUE="56.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.43493614"/>
+      <ARGUMENT TYPE="f" VALUE="0.3268615"/>
+      <ARGUMENT TYPE="f" VALUE="3.8304925E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0011928678"/>
+      <ARGUMENT TYPE="f" VALUE="0.0012528608"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="10.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10161"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10161"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53136"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.39507514"/>
+      <ARGUMENT TYPE="f" VALUE="0.42259872"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0010756254"/>
+      <ARGUMENT TYPE="f" VALUE="0.0018560886"/>
+      <ARGUMENT TYPE="f" VALUE="0.0021452354"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.43513042"/>
+      <ARGUMENT TYPE="f" VALUE="0.32529503"/>
+      <ARGUMENT TYPE="f" VALUE="1.9422174E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0015664697"/>
+      <ARGUMENT TYPE="f" VALUE="0.0015784643"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="7.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53137"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.3939625"/>
+      <ARGUMENT TYPE="f" VALUE="0.4256118"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0011126995"/>
+      <ARGUMENT TYPE="f" VALUE="0.0030130744"/>
+      <ARGUMENT TYPE="f" VALUE="0.0032119649"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4355951"/>
+      <ARGUMENT TYPE="f" VALUE="0.3243417"/>
+      <ARGUMENT TYPE="f" VALUE="4.646778E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-9.533763E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0010605903"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="10.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53138"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.39163274"/>
+      <ARGUMENT TYPE="f" VALUE="0.43142027"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0012568235"/>
+      <ARGUMENT TYPE="f" VALUE="0.003032148"/>
+      <ARGUMENT TYPE="f" VALUE="0.0032823049"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.43722346"/>
+      <ARGUMENT TYPE="f" VALUE="0.32268757"/>
+      <ARGUMENT TYPE="f" VALUE="0.001027137"/>
+      <ARGUMENT TYPE="f" VALUE="-9.903908E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0014268442"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="13.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="11.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53139"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.3898514"/>
+      <ARGUMENT TYPE="f" VALUE="0.43573368"/>
+      <ARGUMENT TYPE="f" VALUE="-9.5564127E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0019921064"/>
+      <ARGUMENT TYPE="f" VALUE="0.0022094657"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4385571"/>
+      <ARGUMENT TYPE="f" VALUE="0.32029843"/>
+      <ARGUMENT TYPE="f" VALUE="5.7294965E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-0.001431942"/>
+      <ARGUMENT TYPE="f" VALUE="0.0015423129"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="13.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53140"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.3898514"/>
+      <ARGUMENT TYPE="f" VALUE="0.43573368"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4385571"/>
+      <ARGUMENT TYPE="f" VALUE="0.32029843"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="13.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53141"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.38914979"/>
+      <ARGUMENT TYPE="f" VALUE="0.43765855"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="56.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.43952614"/>
+      <ARGUMENT TYPE="f" VALUE="0.31783867"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53142"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.3875305"/>
+      <ARGUMENT TYPE="f" VALUE="0.4418503"/>
+      <ARGUMENT TYPE="f" VALUE="-8.099079E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0018990636"/>
+      <ARGUMENT TYPE="f" VALUE="0.0020645563"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4418011"/>
+      <ARGUMENT TYPE="f" VALUE="0.31225538"/>
+      <ARGUMENT TYPE="f" VALUE="0.0010220706"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0031384826"/>
+      <ARGUMENT TYPE="f" VALUE="0.0033007122"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="19.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="11.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53143"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.3875305"/>
+      <ARGUMENT TYPE="f" VALUE="0.4418503"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4418011"/>
+      <ARGUMENT TYPE="f" VALUE="0.31225538"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="19.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="11.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53144"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.38690722"/>
+      <ARGUMENT TYPE="f" VALUE="0.4443841"/>
+      <ARGUMENT TYPE="f" VALUE="-6.233454E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0025337934"/>
+      <ARGUMENT TYPE="f" VALUE="0.0026093426"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.44346213"/>
+      <ARGUMENT TYPE="f" VALUE="0.31034482"/>
+      <ARGUMENT TYPE="f" VALUE="0.0016610622"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0019105077"/>
+      <ARGUMENT TYPE="f" VALUE="0.0025316332"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="15.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="10.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53145"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.38257104"/>
+      <ARGUMENT TYPE="f" VALUE="0.4551617"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0032108426"/>
+      <ARGUMENT TYPE="f" VALUE="0.007690847"/>
+      <ARGUMENT TYPE="f" VALUE="0.008334185"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.44736955"/>
+      <ARGUMENT TYPE="f" VALUE="0.30252492"/>
+      <ARGUMENT TYPE="f" VALUE="0.0032644868"/>
+      <ARGUMENT TYPE="f" VALUE="-0.004861474"/>
+      <ARGUMENT TYPE="f" VALUE="0.005855835"/>
+      <ARGUMENT TYPE="f" VALUE="25.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="9.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53146"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.38257104"/>
+      <ARGUMENT TYPE="f" VALUE="0.4551617"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.44736955"/>
+      <ARGUMENT TYPE="f" VALUE="0.30252492"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="25.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="9.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53147"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.37865293"/>
+      <ARGUMENT TYPE="f" VALUE="0.46369588"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0014218688"/>
+      <ARGUMENT TYPE="f" VALUE="0.0036807656"/>
+      <ARGUMENT TYPE="f" VALUE="0.0039458517"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4497209"/>
+      <ARGUMENT TYPE="f" VALUE="0.2968582"/>
+      <ARGUMENT TYPE="f" VALUE="0.0014858246"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0035412908"/>
+      <ARGUMENT TYPE="f" VALUE="0.0038403666"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="11.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10165"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10164"/>
+      <ARGUMENT TYPE="i" VALUE="10165"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53148"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.37644118"/>
+      <ARGUMENT TYPE="f" VALUE="0.4722209"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0013545752"/>
+      <ARGUMENT TYPE="f" VALUE="0.004894078"/>
+      <ARGUMENT TYPE="f" VALUE="0.0050780773"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4527012"/>
+      <ARGUMENT TYPE="f" VALUE="0.29218233"/>
+      <ARGUMENT TYPE="f" VALUE="0.0015992224"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0021303296"/>
+      <ARGUMENT TYPE="f" VALUE="0.0026637975"/>
+      <ARGUMENT TYPE="f" VALUE="25.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="13.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="19.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53149"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.37544143"/>
+      <ARGUMENT TYPE="f" VALUE="0.47652513"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4540255"/>
+      <ARGUMENT TYPE="f" VALUE="0.28997177"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="13.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53150"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.374032"/>
+      <ARGUMENT TYPE="f" VALUE="0.48032922"/>
+      <ARGUMENT TYPE="f" VALUE="-0.001409471"/>
+      <ARGUMENT TYPE="f" VALUE="0.0038040876"/>
+      <ARGUMENT TYPE="f" VALUE="0.004056808"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.45603013"/>
+      <ARGUMENT TYPE="f" VALUE="0.2868575"/>
+      <ARGUMENT TYPE="f" VALUE="0.0020045936"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0031142235"/>
+      <ARGUMENT TYPE="f" VALUE="0.0037036177"/>
+      <ARGUMENT TYPE="f" VALUE="25.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53151"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.37264895"/>
+      <ARGUMENT TYPE="f" VALUE="0.4849859"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0013830364"/>
+      <ARGUMENT TYPE="f" VALUE="0.0046566725"/>
+      <ARGUMENT TYPE="f" VALUE="0.0048577143"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.45784184"/>
+      <ARGUMENT TYPE="f" VALUE="0.28326547"/>
+      <ARGUMENT TYPE="f" VALUE="0.001811713"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0035920143"/>
+      <ARGUMENT TYPE="f" VALUE="0.0040230425"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="20.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53152"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.37039417"/>
+      <ARGUMENT TYPE="f" VALUE="0.49268538"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0011270344"/>
+      <ARGUMENT TYPE="f" VALUE="0.003258586"/>
+      <ARGUMENT TYPE="f" VALUE="0.0034479834"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.46128082"/>
+      <ARGUMENT TYPE="f" VALUE="0.27948445"/>
+      <ARGUMENT TYPE="f" VALUE="0.0020092428"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0023319125"/>
+      <ARGUMENT TYPE="f" VALUE="0.003078128"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="20.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="23.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53153"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.3689338"/>
+      <ARGUMENT TYPE="f" VALUE="0.49888676"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0010014772"/>
+      <ARGUMENT TYPE="f" VALUE="0.003406465"/>
+      <ARGUMENT TYPE="f" VALUE="0.0035506282"/>
+      <ARGUMENT TYPE="f" VALUE="49.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4642979"/>
+      <ARGUMENT TYPE="f" VALUE="0.27510667"/>
+      <ARGUMENT TYPE="f" VALUE="0.0018296838"/>
+      <ARGUMENT TYPE="f" VALUE="-0.002362311"/>
+      <ARGUMENT TYPE="f" VALUE="0.0029880188"/>
+      <ARGUMENT TYPE="f" VALUE="25.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="24.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="19.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53154"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.36817113"/>
+      <ARGUMENT TYPE="f" VALUE="0.5003483"/>
+      <ARGUMENT TYPE="f" VALUE="-7.6273084E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0014615655"/>
+      <ARGUMENT TYPE="f" VALUE="0.0016486151"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.46506298"/>
+      <ARGUMENT TYPE="f" VALUE="0.27327007"/>
+      <ARGUMENT TYPE="f" VALUE="7.651448E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0018365383"/>
+      <ARGUMENT TYPE="f" VALUE="0.0019895525"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="24.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="19.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53155"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.36795935"/>
+      <ARGUMENT TYPE="f" VALUE="0.50231993"/>
+      <ARGUMENT TYPE="f" VALUE="-2.117753E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0019716322"/>
+      <ARGUMENT TYPE="f" VALUE="0.0019829732"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4658502"/>
+      <ARGUMENT TYPE="f" VALUE="0.27183098"/>
+      <ARGUMENT TYPE="f" VALUE="7.8725815E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0014392138"/>
+      <ARGUMENT TYPE="f" VALUE="0.0016404608"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="25.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="19.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53156"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.36684334"/>
+      <ARGUMENT TYPE="f" VALUE="0.50551915"/>
+      <ARGUMENT TYPE="f" VALUE="-8.946955E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0020154119"/>
+      <ARGUMENT TYPE="f" VALUE="0.002205077"/>
+      <ARGUMENT TYPE="f" VALUE="30.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4666182"/>
+      <ARGUMENT TYPE="f" VALUE="0.27058786"/>
+      <ARGUMENT TYPE="f" VALUE="1.6319752E-4"/>
+      <ARGUMENT TYPE="f" VALUE="-2.0641088E-4"/>
+      <ARGUMENT TYPE="f" VALUE="2.6313282E-4"/>
+      <ARGUMENT TYPE="f" VALUE="36.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="12.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="22.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="18.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53157"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="f" VALUE="0.36648586"/>
+      <ARGUMENT TYPE="f" VALUE="0.50586945"/>
+      <ARGUMENT TYPE="f" VALUE="-3.5756826E-4"/>
+      <ARGUMENT TYPE="f" VALUE="3.503263E-4"/>
+      <ARGUMENT TYPE="f" VALUE="5.0058326E-4"/>
+      <ARGUMENT TYPE="f" VALUE="16.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="f" VALUE="0.4664949"/>
+      <ARGUMENT TYPE="f" VALUE="0.27124262"/>
+      <ARGUMENT TYPE="f" VALUE="-1.2329221E-4"/>
+      <ARGUMENT TYPE="f" VALUE="6.546974E-4"/>
+      <ARGUMENT TYPE="f" VALUE="6.662054E-4"/>
+      <ARGUMENT TYPE="f" VALUE="42.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="10.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="7.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="10158"/>
+      <ARGUMENT TYPE="i" VALUE="10159"/>
+      <ARGUMENT TYPE="i" VALUE="10160"/>
+      <ARGUMENT TYPE="i" VALUE="10163"/>
+      <ARGUMENT TYPE="i" VALUE="10166"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53158"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53159"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53160"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53161"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53162"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53163"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53164"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53165"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53166"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53167"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53168"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53169"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53170"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53171"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53172"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53173"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53174"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53175"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53176"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53177"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53178"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53179"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53180"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53181"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53182"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53183"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53184"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53185"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53186"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53187"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53188"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53189"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53190"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53191"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53192"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53193"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53194"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53195"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53196"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53197"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53198"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53199"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53200"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53201"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53202"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53203"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53204"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53205"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53206"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53207"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53208"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53209"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53210"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53211"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53212"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53213"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53214"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53215"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53216"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53217"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53218"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53219"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53220"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53221"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53222"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53223"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53224"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53225"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53226"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53227"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53228"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53229"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53230"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53231"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53232"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53233"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53234"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53235"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53236"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53237"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53238"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53239"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53240"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53241"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53242"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53243"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53244"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53245"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53246"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="1172" TIME="1">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="53247"/>
+    </MESSAGE>
+  </OSCPACKET>
+</OSCPackets>

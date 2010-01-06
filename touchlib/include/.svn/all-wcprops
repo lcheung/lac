@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/394/trunk/include
+END
+BrightnessContrastFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/129/trunk/include/BrightnessContrastFilter.h
+END
+ITouchEvent.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/49/trunk/include/ITouchEvent.h
+END
+CBlobTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/394/trunk/include/CBlobTracker.h
+END
+CvCaptureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/129/trunk/include/CvCaptureFilter.h
+END
+IBlobTracker.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/371/trunk/include/IBlobTracker.h
+END
+ShapeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/329/trunk/include/ShapeFilter.h
+END
+CaptureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/include/CaptureFilter.h
+END
+utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/49/trunk/include/utilities.h
+END
+RectifyFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/129/trunk/include/RectifyFilter.h
+END
+HighpassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/129/trunk/include/HighpassFilter.h
+END
+TouchData.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/394/trunk/include/TouchData.h
+END
+FilterFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/trunk/include/FilterFactory.h
+END
+touchlib_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/49/trunk/include/touchlib_platform.h
+END
+SmoothingFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/129/trunk/include/SmoothingFilter.h
+END
+MonoFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/129/trunk/include/MonoFilter.h
+END
+ScalerFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/129/trunk/include/ScalerFilter.h
+END
+TouchlibFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/129/trunk/include/TouchlibFilter.h
+END
+mesh2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/49/trunk/include/mesh2d.h
+END
+textures.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/49/trunk/include/textures.h
+END
+BarrelDistortionCorrectionFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/359/trunk/include/BarrelDistortionCorrectionFilter.h
+END
+CTouchScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/368/trunk/include/CTouchScreen.h
+END
+ITouchScreen.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/368/trunk/include/ITouchScreen.h
+END
+filterbrightnesscontrast.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/49/trunk/include/filterbrightnesscontrast.h
+END
+DsCaptureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/129/trunk/include/DsCaptureFilter.h
+END
+ITouchListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/49/trunk/include/ITouchListener.h
+END
+ThresholdFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/128/trunk/include/ThresholdFilter.h
+END
+TouchScreenDevice.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/49/trunk/include/TouchScreenDevice.h
+END
+DSVLCaptureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/129/trunk/include/DSVLCaptureFilter.h
+END
+ITouchEventListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/49/trunk/include/ITouchEventListener.h
+END
+CCapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/49/trunk/include/CCapture.h
+END
+ResizeFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/129/trunk/include/ResizeFilter.h
+END
+CropFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/288/trunk/include/CropFilter.h
+END
+ICapture.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/49/trunk/include/ICapture.h
+END
+InvertFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/129/trunk/include/InvertFilter.h
+END
+VideoWrapperFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/129/trunk/include/VideoWrapperFilter.h
+END
+CMUCaptureFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/84/trunk/include/CMUCaptureFilter.h
+END
+Image.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/49/trunk/include/Image.h
+END
+rect2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/49/trunk/include/rect2d.h
+END
+BackgroundFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/129/trunk/include/BackgroundFilter.h
+END
+SimpleHighpassFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/74/trunk/include/SimpleHighpassFilter.h
+END
+vector2d.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/49/trunk/include/vector2d.h
+END

@@ -1,0 +1,6 @@
+add_subdirectory (smoke)
+add_subdirectory (osc)
+add_subdirectory (touch)
+IF(WIN32)
+	add_subdirectory (pong)
+ENDIF(WIN32)

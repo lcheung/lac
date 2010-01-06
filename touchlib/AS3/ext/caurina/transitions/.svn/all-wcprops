@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions
+END
+SpecialPropertyModifier.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions/SpecialPropertyModifier.as
+END
+SpecialProperty.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions/SpecialProperty.as
+END
+AuxFunctions.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions/AuxFunctions.as
+END
+Equations.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions/Equations.as
+END
+TweenListObj.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions/TweenListObj.as
+END
+Tweener.as
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions/Tweener.as
+END
+PropertyInfoObj.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions/PropertyInfoObj.as
+END
+SpecialPropertySplitter.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/344/trunk/AS3/ext/caurina/transitions/SpecialPropertySplitter.as
+END

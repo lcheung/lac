@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OSC", "OSC.vcproj", "{CB7AFF78-8086-495C-A334-1DAB9AA2179A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "configapp", "configapp.vcproj", "{DB85049C-2E10-4085-82E0-C30E778F4A59}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo_pong", "demo_pong.vcproj", "{FCE6BE73-8667-45B5-BC6C-987EA279C9B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "demo_smoke", "demo_smoke.vcproj", "{DDCFF849-ABEF-4634-B572-CA0E1D0A3FDA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mousedriver", "mousedriver.vcproj", "{D1140388-CB37-40FC-B47C-F1A990A2C4FA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "touchlib", "touchlib.vcproj", "{A4325213-6505-4E16-B543-8FB0FC059A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB7AFF78-8086-495C-A334-1DAB9AA2179A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CB7AFF78-8086-495C-A334-1DAB9AA2179A}.Debug|Win32.Build.0 = Debug|Win32
+		{CB7AFF78-8086-495C-A334-1DAB9AA2179A}.Release|Win32.ActiveCfg = Release|Win32
+		{CB7AFF78-8086-495C-A334-1DAB9AA2179A}.Release|Win32.Build.0 = Release|Win32
+		{DB85049C-2E10-4085-82E0-C30E778F4A59}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB85049C-2E10-4085-82E0-C30E778F4A59}.Debug|Win32.Build.0 = Debug|Win32
+		{DB85049C-2E10-4085-82E0-C30E778F4A59}.Release|Win32.ActiveCfg = Release|Win32
+		{DB85049C-2E10-4085-82E0-C30E778F4A59}.Release|Win32.Build.0 = Release|Win32
+		{FCE6BE73-8667-45B5-BC6C-987EA279C9B6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FCE6BE73-8667-45B5-BC6C-987EA279C9B6}.Debug|Win32.Build.0 = Debug|Win32
+		{FCE6BE73-8667-45B5-BC6C-987EA279C9B6}.Release|Win32.ActiveCfg = Release|Win32
+		{FCE6BE73-8667-45B5-BC6C-987EA279C9B6}.Release|Win32.Build.0 = Release|Win32
+		{DDCFF849-ABEF-4634-B572-CA0E1D0A3FDA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DDCFF849-ABEF-4634-B572-CA0E1D0A3FDA}.Debug|Win32.Build.0 = Debug|Win32
+		{DDCFF849-ABEF-4634-B572-CA0E1D0A3FDA}.Release|Win32.ActiveCfg = Release|Win32
+		{DDCFF849-ABEF-4634-B572-CA0E1D0A3FDA}.Release|Win32.Build.0 = Release|Win32
+		{D1140388-CB37-40FC-B47C-F1A990A2C4FA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1140388-CB37-40FC-B47C-F1A990A2C4FA}.Debug|Win32.Build.0 = Debug|Win32
+		{D1140388-CB37-40FC-B47C-F1A990A2C4FA}.Release|Win32.ActiveCfg = Release|Win32
+		{D1140388-CB37-40FC-B47C-F1A990A2C4FA}.Release|Win32.Build.0 = Release|Win32
+		{A4325213-6505-4E16-B543-8FB0FC059A1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A4325213-6505-4E16-B543-8FB0FC059A1A}.Debug|Win32.Build.0 = Debug|Win32
+		{A4325213-6505-4E16-B543-8FB0FC059A1A}.Release|Win32.ActiveCfg = Release|Win32
+		{A4325213-6505-4E16-B543-8FB0FC059A1A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		AMDCaProjectFile = C:\Multitouch\build\VC8\CodeAnalyst\solution.caw
+	EndGlobalSection
+EndGlobal

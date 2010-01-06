@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/360/trunk/AS3/src/deploy/www/xml
+END
+tableData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/115/trunk/AS3/src/deploy/www/xml/tableData.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/115/trunk/AS3/src/deploy/www/xml/config.xml
+END
+dictionary.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/281/trunk/AS3/src/deploy/www/xml/dictionary.xml
+END
+scaletest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/115/trunk/AS3/src/deploy/www/xml/scaletest.xml
+END
+simulatorTestData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/115/trunk/AS3/src/deploy/www/xml/simulatorTestData.xml
+END
+applist.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/360/trunk/AS3/src/deploy/www/xml/applist.xml
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/209/trunk/AS3/src/deploy/www/xml/test.xml
+END

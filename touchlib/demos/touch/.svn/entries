@@ -1,0 +1,52 @@
+8
+
+dir
+403
+http://touchlib.googlecode.com/svn/trunk/demos/touch
+http://touchlib.googlecode.com/svn
+
+
+
+2007-07-11T19:08:44.027701Z
+59
+tigeba
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+354aca26-de27-0410-a198-a53a36578689
+
+touch.cpp
+file
+
+
+
+
+2010-01-06T19:28:15.000000Z
+602d6bdd1423563b39e31453bc97667a
+2007-07-11T19:08:44.027701Z
+59
+tigeba
+
+CMakeLists.txt
+file
+
+
+
+
+2010-01-06T19:28:15.000000Z
+d9419237c419ff94fc4f9854db5b300f
+2007-06-18T11:26:41.762406Z
+48
+johannes.hirche
+

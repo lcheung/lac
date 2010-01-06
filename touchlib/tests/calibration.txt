@@ -1,0 +1,11 @@
+
+calibration.avi is a recorded simulation of the touchscreen calibration 
+process.  An n x m grid of known size is projected onto the screen.  The
+user sequentially touches the grid crossings.  The result of this process
+is a reusable calibration file that maps screen touches as recorded by
+the camera to device (projector) coordinates.
+
+calibration.avi consists of 42 sequential vertex touches of a 6 x 7 grid.  
+Horizontal touches are spaced 70mm apart while vertical touches are spaced
+80mm apart.  
+

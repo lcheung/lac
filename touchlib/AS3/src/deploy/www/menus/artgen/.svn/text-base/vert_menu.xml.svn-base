@@ -1,0 +1,6 @@
+﻿<menu width="" height="" labels="" effects="" color="">
+	<button up="www/menus/artgen/up.png" down="www/menus/artgen/down.png" over="www/menus/artgen/over.png">Swarm Settings</button>	
+	<button up="www/menus/artgen/up.png" down="www/menus/artgen/down.png" over="www/menus/artgen/over.png">Save Layer</button>	
+	<button up="www/menus/artgen/up.png" down="www/menus/artgen/down.png" over="www/menus/artgen/over.png">Clear Layer</button>	
+	<button up="www/menus/artgen/up.png" down="www/menus/artgen/down.png" over="www/menus/artgen/over.png">Edit Layers</button>	
+</menu>

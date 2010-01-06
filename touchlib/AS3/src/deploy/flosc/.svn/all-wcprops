@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/321/trunk/AS3/src/deploy/flosc
+END
+FlashOSCv2_0_4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/321/trunk/AS3/src/deploy/flosc/FlashOSCv2_0_4.jar
+END
+run.bat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/211/trunk/AS3/src/deploy/flosc/run.bat
+END
+FlashOSC.jar
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/211/trunk/AS3/src/deploy/flosc/FlashOSC.jar
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/211/trunk/AS3/src/deploy/flosc/run.sh
+END

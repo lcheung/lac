@@ -1,0 +1,34 @@
+project(touchlib)
+
+SET(CMAKE_MODULE_PATH ${touchlib_SOURCE_DIR}/CMakeModules)
+
+FIND_PACKAGE(OpenCV REQUIRED)
+INCLUDE_DIRECTORIES(${OpenCV_INCLUDE_DIRS})
+
+FIND_PACKAGE(OpenGL)
+IF(NOT OPENGL_FOUND)
+	MESSAGE("OpenGL not found - some applications may not be built")
+ENDIF(NOT OPENGL_FOUND)
+
+FIND_PACKAGE(GLUT)
+IF(NOT GLUT_FOUND)
+	MESSAGE("GLUT not found - some applications may not be built")
+ENDIF(NOT GLUT_FOUND)
+
+FIND_PATH(FFTW_INCLUDE_DIR NAMES rfftw.h drfftw.h fftw.h dfftw.h)
+FIND_LIBRARY(RFFTW_LIBRARIES NAMES rfftw drfftw)
+FIND_LIBRARY(FFTW_LIBRARIES NAMES fftw dfftw)
+IF(NOT FFTW_INCLUDE_DIR OR NOT FFTW_LIBRARIES OR NOT RFFTW_LIBRARIES)
+	MESSAGE("FFTW not found - Smoke demo will not be built")
+ENDIF(NOT FFTW_INCLUDE_DIR OR NOT FFTW_LIBRARIES OR NOT RFFTW_LIBRARIES)
+
+FIND_FILE(OSC_INCLUDE_DIR oscpack)
+FIND_LIBRARY(OSC_LIBRARIES oscpack)
+IF(NOT OSC_INCLUDE_DIR OR NOT OSC_LIBRARIES)
+	MESSAGE("Oscpack not found - OSC application will not be built")
+ENDIF(NOT OSC_INCLUDE_DIR OR NOT OSC_LIBRARIES)
+
+INCLUDE_DIRECTORIES(${OPENCV_INC} ${OPENGL_INCLUDE_DIR} ${GLUT_INCLUDE_DIR} include tinyxml)
+add_subdirectory (tinyxml)
+add_subdirectory (src)
+add_subdirectory (demos)

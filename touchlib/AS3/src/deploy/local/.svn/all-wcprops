@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/224/trunk/AS3/src/deploy/local
+END
+3Dobjects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/152/trunk/AS3/src/deploy/local/3Dobjects.xml
+END
+images.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/151/trunk/AS3/src/deploy/local/images.xml
+END
+videos.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/180/trunk/AS3/src/deploy/local/videos.xml
+END
+reload.bat
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/145/trunk/AS3/src/deploy/local/reload.bat
+END

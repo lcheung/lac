@@ -1,0 +1,832 @@
+<OSCPackets>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785296522888056">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785292227920760">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785287932953464">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785283637986168">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785279343018872">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785275048051576">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785270753084280">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785266458116984">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785262163149688">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785257868179392">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785253573211096">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785249278278800">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="1"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="1"/>
+      <ARGUMENT TYPE="f" VALUE="0.0425"/>
+      <ARGUMENT TYPE="f" VALUE="-0.03"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785249278221800">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="184"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785244984169504">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785244984049504">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.04625"/>
+      <ARGUMENT TYPE="f" VALUE="0.085"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.4064592"/>
+      <ARGUMENT TYPE="f" VALUE="0.4064592"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0016013336"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="185"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785244983851504">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.055"/>
+      <ARGUMENT TYPE="f" VALUE="0.145"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.30432174"/>
+      <ARGUMENT TYPE="f" VALUE="0.30432174"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="7.333069E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="186"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785244983654504">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.09125"/>
+      <ARGUMENT TYPE="f" VALUE="0.20833333"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.34920344"/>
+      <ARGUMENT TYPE="f" VALUE="0.34920344"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-2.9929934E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="187"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785244983442504">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.1325"/>
+      <ARGUMENT TYPE="f" VALUE="0.25166667"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.31627256"/>
+      <ARGUMENT TYPE="f" VALUE="0.31627256"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="2.0871156E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="188"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785244983268504">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.15625"/>
+      <ARGUMENT TYPE="f" VALUE="0.295"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.30160815"/>
+      <ARGUMENT TYPE="f" VALUE="0.30160815"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0238268E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="189"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785240689191208">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.15625"/>
+      <ARGUMENT TYPE="f" VALUE="0.295"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.30160815"/>
+      <ARGUMENT TYPE="f" VALUE="0.30160815"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.0238268E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785240689103208">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.35333332"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.3085325"/>
+      <ARGUMENT TYPE="f" VALUE="0.3085325"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-4.2675194E-5"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="190"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785240688900208">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.35333332"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="191"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785236394269912">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="1"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="1"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.38"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785236394239912">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.38166666"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.09739921"/>
+      <ARGUMENT TYPE="f" VALUE="0.09739921"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.9130738E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="192"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785236394154912">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.38166666"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.09739921"/>
+      <ARGUMENT TYPE="f" VALUE="0.09739921"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.9130738E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785236393968912">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.45"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.27503774"/>
+      <ARGUMENT TYPE="f" VALUE="0.27503774"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-4.8825942E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="193"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785236393755912">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.45333335"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.06851887"/>
+      <ARGUMENT TYPE="f" VALUE="0.06851887"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="6.662059E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="194"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785236393755912">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.45333335"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="195"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785232099187616">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.17375"/>
+      <ARGUMENT TYPE="f" VALUE="0.45333335"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.06851887"/>
+      <ARGUMENT TYPE="f" VALUE="0.06851887"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="6.662059E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785232099166616">
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="1"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dcur">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="1"/>
+      <ARGUMENT TYPE="f" VALUE="0.16875"/>
+      <ARGUMENT TYPE="f" VALUE="0.45666668"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785232099145616">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.1675"/>
+      <ARGUMENT TYPE="f" VALUE="0.45666668"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.06476151"/>
+      <ARGUMENT TYPE="f" VALUE="0.06476151"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="1.5600698E-6"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="196"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785232098920616">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.1375"/>
+      <ARGUMENT TYPE="f" VALUE="0.40833333"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.28858465"/>
+      <ARGUMENT TYPE="f" VALUE="0.28858465"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-6.9988536E-4"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="197"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785232098768616">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.11"/>
+      <ARGUMENT TYPE="f" VALUE="0.3"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.47511134"/>
+      <ARGUMENT TYPE="f" VALUE="0.47511134"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0018743379"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="198"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785232098606616">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.08875"/>
+      <ARGUMENT TYPE="f" VALUE="0.12833333"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.5676285"/>
+      <ARGUMENT TYPE="f" VALUE="0.5676285"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="-0.0011910042"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="199"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785232098451616">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="set"/>
+      <ARGUMENT TYPE="i" VALUE="8"/>
+      <ARGUMENT TYPE="i" VALUE="0"/>
+      <ARGUMENT TYPE="f" VALUE="0.075"/>
+      <ARGUMENT TYPE="f" VALUE="0.06"/>
+      <ARGUMENT TYPE="f" VALUE="3.1415927"/>
+      <ARGUMENT TYPE="f" VALUE="0.3700478"/>
+      <ARGUMENT TYPE="f" VALUE="0.3700478"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+      <ARGUMENT TYPE="f" VALUE="0.0023905386"/>
+      <ARGUMENT TYPE="f" VALUE="0.0"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="200"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785227804321320">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="201"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785227804208320">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785227804176320">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="202"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785227804024320">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="203"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785227803870320">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="204"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785227803869320">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="205"/>
+    </MESSAGE>
+  </OSCPACKET>
+  <OSCPACKET ADDRESS="127.0.0.1" PORT="49817" TIME="-3915785223509238024">
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="source"/>
+      <ARGUMENT TYPE="s" VALUE="vision"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="alive"/>
+    </MESSAGE>
+    <MESSAGE NAME="/tuio/2Dobj">
+      <ARGUMENT TYPE="s" VALUE="fseq"/>
+      <ARGUMENT TYPE="i" VALUE="-1"/>
+    </MESSAGE>
+  </OSCPACKET>
+</OSCPackets>

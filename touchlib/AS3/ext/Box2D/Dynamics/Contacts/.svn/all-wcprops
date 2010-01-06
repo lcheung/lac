@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts
+END
+b2ContactConstraintPoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2ContactConstraintPoint.as
+END
+b2Contact.as
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2Contact.as
+END
+b2CircleContact.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2CircleContact.as
+END
+b2PolyContact.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2PolyContact.as
+END
+b2ContactRegister.as
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2ContactRegister.as
+END
+b2ContactConstraint.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2ContactConstraint.as
+END
+b2ContactNode.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2ContactNode.as
+END
+b2PolyAndCircleContact.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2PolyAndCircleContact.as
+END
+b2NullContact.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2NullContact.as
+END
+b2ContactSolver.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2ContactSolver.as
+END
+b2Conservative.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/355/trunk/AS3/ext/Box2D/Dynamics/Contacts/b2Conservative.as
+END

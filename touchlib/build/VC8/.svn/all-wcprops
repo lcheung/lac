@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/400/trunk/build/VC8
+END
+demo_smoke.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/288/trunk/build/VC8/demo_smoke.vcproj
+END
+sampleapp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/trunk/build/VC8/sampleapp.vcproj
+END
+mousedriver.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/49/trunk/build/VC8/mousedriver.vcproj
+END
+OSC.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/329/trunk/build/VC8/OSC.vcproj
+END
+solution.sln
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/400/trunk/build/VC8/solution.sln
+END
+configapp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/trunk/build/VC8/configapp.vcproj
+END
+demo_pong.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/trunk/build/VC8/demo_pong.vcproj
+END
+touchlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/378/trunk/build/VC8/touchlib.vcproj
+END
