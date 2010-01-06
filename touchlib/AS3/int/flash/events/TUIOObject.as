@@ -40,9 +40,7 @@
 // CONSTRUCTOR
 //--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 		public function TUIOObject ($type:String, $id:int, $px:Number, $py:Number, $dx:Number, $dy:Number, $sid:int = -1, $angle:Number = 0, $height:Number=0.0, $width:Number=0.0, $TUIO_OBJECT:DisplayObject = null)
-		{
-			trace("yooooooooooooooooooooo");
-			
+		{	
 			EVENT_ARRAY = new Array();
 			TUIO_TYPE = $type;
 			ID = $id;

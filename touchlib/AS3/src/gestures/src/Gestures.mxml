@@ -8,21 +8,29 @@
 			private function init():void
 			{
 				// initialize TUIO
-				TUIO.init(this,"localhost",3000,"",true); 
-				addEventListener(TouchEvent.MOUSE_DOWN, touchDetected);
-				addEventListener(MouseEvent.MOUSE_DOWN, clickDetected);
+				TUIO.init(this,"localhost",3000,"",true);
+				pnl_main.addEventListener(MouseEvent.MOUSE_DOWN, clickDetected);
+				pnl_main.addEventListener(TouchEvent.MOUSE_DOWN, touchDetected);
 			}
 			
 			private function touchDetected(event:TouchEvent):void
 			{
 				trace("TOUCH DETECTED");
 				trace(event.stageX+", "+event.stageY);
+				txt_xCoord.text = "x-coord: "+event.stageX;
+				txt_yCoord.text = "y-coord: "+event.stageY;	
 			}
 			
 			private function clickDetected(event:MouseEvent):void
 			{
-				trace("CLICK DETECTED");
+				txt_xCoord.text = "x-coord: "+123;
+				txt_yCoord.text = "y-coord: "+123;	
 			}
 		]]>
 	</mx:Script>
+	
+	<mx:Panel id="pnl_main" height="100%" width="100%" backgroundColor="green">
+		<mx:Text id="txt_xCoord" text="x-coord:" color="white" paddingLeft="200"/>
+		<mx:Text id="txt_yCoord" text="y-coord:" color="white" paddingLeft="200"/>
+	</mx:Panel>
 </mx:Application>
