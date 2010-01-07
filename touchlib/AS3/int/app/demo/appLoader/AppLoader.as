@@ -213,15 +213,15 @@ package app.demo.appLoader
 
 		}
 		
-		public function closeApp(main:DisplayObjectContainer)
+		public function closeApp(Main:DisplayObjectContainer)
 		{
 			appLoader.contentLoaderInfo.removeEventListener(Event.COMPLETE, stageResized);			
 			appLoader.content.dispatchEvent(new Event(Event.UNLOAD, true));
 			
 			this.gotoAndStop("Init");
-			main.removeChild(appLoader);
-			main.removeChild(osButton);
-			main.addChild(this);
+			Main.removeChild(appLoader);
+			Main.removeChild(osButton);
+			Main.addChild(this);
 
 			appLoader.unload();
 

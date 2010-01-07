@@ -43,7 +43,7 @@
 		private var colorPicker_0:ColorPicker;
 	
 		private var settings:XML;
-		private var main:ArtGenMain;
+		private var Main:ArtGenMain;
 		
 		private var curX:int = 0;
 		private var curY:int = 0;
@@ -51,7 +51,7 @@
 		public function SettingsDialog(s:XML, m:ArtGenMain) 
 		{
 			settings = s;
-			main = m;
+			Main = m;
 			
 
 			
@@ -399,7 +399,7 @@
 		public function doneClicked(e:Event)
 		{
 			this.visible = false;
-			main.applySettings();
+			Main.applySettings();
 		}
 		
 		
