@@ -1,0 +1,34 @@
+Gesture Detection Algorithm
+
+Single Blob
+
+- go through the entire sequence of points in the reproduced gesture
+    - first, remove "anomaly" points (one or series of points which are only a small delta x/y from the prev/next point, but in a different direction)
+    - divide the gesture into a series of components based on direction, separated by quadrants (left, right, up, down, up-left, up-right, down-left, down-right)
+        - within each component, note the total delta x, delta y, slopes and change in slopes between (a small series of) points
+    - determine delta x and delta y of entire gesture to establish scale?
+
+- original gestures are already subject to the above analysis, and this data is stored in DB alongside the gesture coordinates
+
+- compare reproduced gesture to all the original gestures, section by section
+    - if section is not in the same direction (or close to it) then discard the original gesture from list of possible matches
+        - allow exemption if section length is small relative to overall gesture size
+            - in which case, use following section for comparison
+    - compare slopes, change in slope, distance of section (relative to their individual overall scale)
+        - keep track of error in a variables
+            - if that value is too large at end of analysis, then discard that gesture
+            - if multiple values fit within tolerance, then choose original gesture with smallest error 
+
+
+Multiple Blob
+
+- narrow down possible gestures based on number of blobs
+- correlate single blobs of reproduced and original based on relative position
+- proceed with single blob analysis on each blob
+- at every 10% mark of entire elapsed reproduced gesture time, ensure that every corresponding original blob is a similar percentage of the way through the number of recorded reproduced blobs
+    - e.g. at 30% time elapsed, if a blob on the reproduced gesture is a quarter of the way through the total number of points, the corresponding original blob must be a similar percentage of the way through
+
+- if gestures are to be orientation independent, when comparing against original gestures, rotate the original gesture coordinates so that the slope in the initial section matches the reproduced gesture
+    - i.e. relative to the initial coordinate, the length is constant, but the angle changes by a consistent amount for every point
+
+
