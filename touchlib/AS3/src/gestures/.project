@@ -19,12 +19,12 @@
 		<link>
 			<name>[source path] ext</name>
 			<type>2</type>
-			<location>/lac/touchlib/AS3/ext</location>
+			<location>C:/Users/Chris-Dell/Documents/lac/touchlib/AS3/ext</location>
 		</link>
 		<link>
 			<name>[source path] int</name>
 			<type>2</type>
-			<location>/lac/touchlib/AS3/int</location>
+			<location>C:/Users/Chris-Dell/Documents/lac/touchlib/AS3/int</location>
 		</link>
 	</linkedResources>
 </projectDescription>
