@@ -3,12 +3,34 @@
 	<mx:Script>
 		<![CDATA[
 			import controllers.HomeController; 
+			import flash.data.SQLConnection;
+			import flash.filesystem.File;
 			
+	        private var sqlLiteGesturesConn:SQLConnection;
+	        
 			private function init():void
 			{
 				var homeController:HomeController = new HomeController();
 				trace("here");
+	            openDatabase();
 			}
+			
+	        private function openDatabase():void
+	        {  	
+	            var file:File = new File();
+	            file.nativePath="C:/Users/Chris/Documents/lac/touchlib/AS3/src/gestures/Database/Gestures.db";
+	            var isDBAccesible:Boolean = file.exists;
+	            if (isDBAccesible) {
+	            	sqlLiteGesturesConn = new SQLConnection();
+	            	sqlLiteGesturesConn.open(file);
+	            	trace("SQL Connection Success");
+	            }
+	            else{
+	            	trace("SQL Connection Unsuccessful");
+	            }
+	        }
+			
+			
 		]]>
 	</mx:Script>
 </mx:Application>

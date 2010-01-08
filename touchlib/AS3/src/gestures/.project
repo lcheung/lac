@@ -10,8 +10,14 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.apollo.apollobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>com.adobe.flexbuilder.apollo.apollonature</nature>
 		<nature>com.adobe.flexbuilder.project.flexnature</nature>
 		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
 	</natures>
@@ -19,12 +25,12 @@
 		<link>
 			<name>[source path] ext</name>
 			<type>2</type>
-			<location>/lac/touchlib/AS3/ext</location>
+			<location>C:/Users/Chris/Documents/lac/touchlib/AS3/ext</location>
 		</link>
 		<link>
 			<name>[source path] int</name>
 			<type>2</type>
-			<location>/lac/touchlib/AS3/int</location>
+			<location>C:/Users/Chris/Documents/lac/touchlib/AS3/int</location>
 		</link>
 	</linkedResources>
 </projectDescription>
