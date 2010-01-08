@@ -25,12 +25,20 @@
 		<link>
 			<name>[source path] ext</name>
 			<type>2</type>
+<<<<<<< HEAD
 			<location>C:/Users/Chris/Documents/lac/touchlib/AS3/ext</location>
+=======
+			<location>C:/Users/Chris-Dell/Documents/lac/touchlib/AS3/ext</location>
+>>>>>>> d1d9f4b35dd9b213424cbf701d854edf4c34fd13
 		</link>
 		<link>
 			<name>[source path] int</name>
 			<type>2</type>
+<<<<<<< HEAD
 			<location>C:/Users/Chris/Documents/lac/touchlib/AS3/int</location>
+=======
+			<location>C:/Users/Chris-Dell/Documents/lac/touchlib/AS3/int</location>
+>>>>>>> d1d9f4b35dd9b213424cbf701d854edf4c34fd13
 		</link>
 	</linkedResources>
 </projectDescription>

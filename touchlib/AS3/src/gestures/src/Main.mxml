@@ -1,18 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" creationComplete="init();">
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" applicationComplete="init();">
 	<mx:Script>
 		<![CDATA[
 			import controllers.HomeController; 
+<<<<<<< HEAD
 			import flash.data.SQLConnection;
 			import flash.filesystem.File;
+=======
+			import flash.events.TUIO;
+>>>>>>> d1d9f4b35dd9b213424cbf701d854edf4c34fd13
 			
 	        private var sqlLiteGesturesConn:SQLConnection;
 	        
 			private function init():void
 			{
+				// initialize the TUIO object
+				TUIO.init(this, 'localhost', 3000, '', true);
+		
+				// launch the home controller
 				var homeController:HomeController = new HomeController();
+<<<<<<< HEAD
 				trace("here");
 	            openDatabase();
+=======
+>>>>>>> d1d9f4b35dd9b213424cbf701d854edf4c34fd13
 			}
 			
 	        private function openDatabase():void
@@ -33,4 +44,8 @@
 			
 		]]>
 	</mx:Script>
+	
+	<mx:ViewStack id="mainViewStack">	
+	</mx:ViewStack>
+	
 </mx:Application>

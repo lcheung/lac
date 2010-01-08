@@ -2,8 +2,13 @@
 <actionScriptProperties mainApplicationPath="Main.mxml" version="3">
 <compiler additionalCompilerArguments="-locale en_US" copyDependentFiles="true" enableModuleDebug="true" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="false" htmlHistoryManagement="false" htmlPlayerVersion="9.0.124" htmlPlayerVersionCheck="true" outputFolderPath="bin-debug" sourceFolderPath="src" strict="true" useApolloConfig="true" verifyDigests="true" warn="true">
 <compilerSourcePath>
+<<<<<<< HEAD
 <compilerSourcePathEntry kind="1" linkType="1" path="C:/Users/Chris/Documents/lac/touchlib/AS3/ext"/>
 <compilerSourcePathEntry kind="1" linkType="1" path="C:/Users/Chris/Documents/lac/touchlib/AS3/int"/>
+=======
+<compilerSourcePathEntry kind="1" linkType="1" path="C:/Users/Chris-Dell/Documents/lac/touchlib/AS3/ext"/>
+<compilerSourcePathEntry kind="1" linkType="1" path="C:/Users/Chris-Dell/Documents/lac/touchlib/AS3/int"/>
+>>>>>>> d1d9f4b35dd9b213424cbf701d854edf4c34fd13
 </compilerSourcePath>
 <libraryPath defaultLinkType="1">
 <libraryPathEntry kind="4" path=""/>
