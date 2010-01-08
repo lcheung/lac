@@ -3,12 +3,20 @@
 	<mx:Script>
 		<![CDATA[
 			import controllers.HomeController; 
+			import flash.events.TUIO;
 			
 			private function init():void
 			{
+				// initialize the TUIO object
+				//TUIO.init(this, 'localhost', 3000, '', true);
+		
+				// launch the home controller
 				var homeController:HomeController = new HomeController();
-				trace("here");
 			}
 		]]>
 	</mx:Script>
+	
+	<mx:ViewStack id="mainViewStack">	
+	</mx:ViewStack>
+	
 </mx:Application>
