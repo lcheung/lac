@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" creationComplete="init();">
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" applicationComplete="init();">
 	<mx:Script>
 		<![CDATA[
 			import controllers.HomeController; 
@@ -8,7 +8,7 @@
 			private function init():void
 			{
 				// initialize the TUIO object
-				//TUIO.init(this, 'localhost', 3000, '', true);
+				TUIO.init(this, 'localhost', 3000, '', true);
 		
 				// launch the home controller
 				var homeController:HomeController = new HomeController();
