@@ -15,7 +15,7 @@ package models
 		{
 		}
 		
-		public function setPathId(var id:int):void
+		public function setPathId(id:int):void
 		{
 			this.pathId = id;
 		}
@@ -25,7 +25,7 @@ package models
 			return this.pathId;
 		}
 		
-		public function setX(var x:int):void
+		public function setX(x:int):void
 		{
 			this.x = x;
 		}
@@ -35,7 +35,7 @@ package models
 			return this.x;
 		}
 		
-		public function setY(var y:int):void
+		public function setY(y:int):void
 		{
 			this.y = y;
 		}
@@ -45,7 +45,7 @@ package models
 			return this.y;
 		}
 
-		public function setTimestamp(var ts:int):void
+		public function setTimestamp(ts:int):void
 		{
 			this.timestamp = ts;
 		}
